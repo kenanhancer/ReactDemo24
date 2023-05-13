@@ -99,7 +99,7 @@ function App() {
             Show Complete
           </button>
           <button type="button" onClick={handleShowIncomplete}>
-            Show Incompletedd
+            Show Incompleted
           </button>
         </div>
         <ul className="listStyle">
